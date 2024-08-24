@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Sarah Johnson",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Engaging lectures and challenging assignments. Dr. Johnson really knows her stuff!"
+      },
+      {
+        "professor": "Prof. Michael Chen",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Excellent teacher! Makes complex concepts easy to understand. Highly recommended."
+      },
+      {
+        "professor": "Dr. Emily Rodriguez",
+        "subject": "Biology",
+        "stars": 3,
+        "review": "Good content, but lectures can be a bit dry. Office hours are helpful."
+      },
+      {
+        "professor": "Prof. David Thompson",
+        "subject": "History",
+        "stars": 4,
+        "review": "Passionate about the subject. Assignments are thought-provoking."
+      },
+      {
+        "professor": "Dr. Lisa Patel",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Best professor I've had! Engaging, knowledgeable, and always willing to help."
+      },
+      {
+        "professor": "Prof. Robert Williams",
+        "subject": "Mathematics",
+        "stars": 2,
+        "review": "Difficult to follow in class. Needs to improve explanation of complex topics."
+      },
+      {
+        "professor": "Dr. Amanda Lee",
+        "subject": "Chemistry",
+        "stars": 4,
+        "review": "Clear explanations and interesting lab work. Could improve on feedback timing."
+      },
+      {
+        "professor": "Prof. James Wilson",
+        "subject": "English Literature",
+        "stars": 5,
+        "review": "Inspiring teacher who brings literature to life. Discussions are always engaging."
+      },
+      {
+        "professor": "Dr. Maria Garcia",
+        "subject": "Sociology",
+        "stars": 3,
+        "review": "Interesting course material, but grading can be inconsistent."
+      },
+      {
+        "professor": "Prof. Thomas Brown",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Challenging course that prepares you well for the field. Prof. Brown is approachable."
+      },
+      {
+        "professor": "Dr. Rachel Kim",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Passionate and knowledgeable. Makes art history fascinating for everyone."
+      },
+      {
+        "professor": "Prof. Daniel Martinez",
+        "subject": "Political Science",
+        "stars": 2,
+        "review": "Lectures are disorganized. Expectations for assignments are often unclear."
+      },
+      {
+        "professor": "Dr. Elizabeth Taylor",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Engaging course with relevant, real-world applications. Field trips are a highlight."
+      },
+      {
+        "professor": "Prof. Christopher Lee",
+        "subject": "Philosophy",
+        "stars": 3,
+        "review": "Thought-provoking content, but can be overly critical of student opinions."
+      },
+      {
+        "professor": "Dr. Olivia Wright",
+        "subject": "Neuroscience",
+        "stars": 5,
+        "review": "Brilliant lecturer who makes complex topics accessible. Always available for help."
+      },
+      {
+        "professor": "Prof. Alexander Ivanov",
+        "subject": "Mechanical Engineering",
+        "stars": 4,
+        "review": "Tough but fair. Projects are challenging and prepare you well for the industry."
+      },
+      {
+        "professor": "Dr. Sophia Nguyen",
+        "subject": "Linguistics",
+        "stars": 5,
+        "review": "Fascinating course content. Dr. Nguyen's enthusiasm is contagious!"
+      },
+      {
+        "professor": "Prof. William Harris",
+        "subject": "Business Administration",
+        "stars": 3,
+        "review": "Good real-world examples, but could improve on student engagement in class."
+      },
+      {
+        "professor": "Dr. Jessica Moore",
+        "subject": "Anthropology",
+        "stars": 4,
+        "review": "Insightful lectures and interesting fieldwork opportunities. Assignments can be heavy."
+      },
+      {
+        "professor": "Prof. Samuel Clark",
+        "subject": "Music Theory",
+        "stars": 5,
+        "review": "Exceptional teacher who breaks down complex musical concepts clearly. Very inspiring!"
+      }
+    ]
+  }
